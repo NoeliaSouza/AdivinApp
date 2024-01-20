@@ -1,0 +1,16 @@
+p{  
+    color:grey;
+    font-style: italic;
+}
+
+
+#inputIngresado{
+    padding: 10px;
+    color:violet;
+    border: 3px;
+    border-color: black;
+    box-shadow: 5px 5px 5px black;
+    font-size: x-large;
+    text-align: center;
+    transition: .1s;
+}
